@@ -7,3 +7,4 @@ hello!ChaR!
 hello!ChaR! master test
 hello!ChaR! hot-fix test
 SSH Change!
+http test!
